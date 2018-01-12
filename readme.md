@@ -1,4 +1,4 @@
-#Discord 10man manager
+# Discord 10man manager
 
 Example bot url: `https://discordapp.com/oauth2/authorize?client_id={CLIENT_ID}&scope=bot&permissions=285355072`
 
